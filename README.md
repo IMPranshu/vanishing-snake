@@ -1,0 +1,1 @@
+# Vanishing Sanke game
